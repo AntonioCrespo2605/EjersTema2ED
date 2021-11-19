@@ -1,0 +1,7 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/python$ cat > antonio.py
+#!/bin/python
+print"Hola, soy Antonio Crespo"
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/python$ chmod +x antonio.py
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/python$ ./antonio.py
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/python$ 

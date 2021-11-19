@@ -1,0 +1,9 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/php$ cat > antonio.php
+#!/bin/php
+<?php
+	echo "Hola, soy Antonio Crespo\n"
+?>
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/php$ chmod +x antonio.php
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/php$ ./antonio.php
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/php$ 
