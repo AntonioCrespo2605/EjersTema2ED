@@ -1,0 +1,8 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/javascript(nodejs)$ cat > antonio.js
+#!/bin/nodejs
+   
+console.log('Hola, soy Antonio Crespo');
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/javascript(nodejs)$ chmod +x antonio.js
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/javascript(nodejs)$ ./antonio.js
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/javascript(nodejs)$ 
