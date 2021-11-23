@@ -1,0 +1,12 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/java$ cat > antonio.java
+class Antonio 
+{
+	public static void main(String[] args)
+    {
+        System.out.println("Hola, soy Antonio Crespo");
+    }	
+}
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/java$ javac antonio.java
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/java$ java Antonio
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/java$ 
