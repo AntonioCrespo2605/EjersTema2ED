@@ -4,7 +4,7 @@ Bash: bash;
 Python: python;
 PHP: php -a;
 JavaScript(nodejs): node;
-C: gcc
+C: gcc;
 C++: g++;
 Java: openjdk-8-jdk;
 Ruby: ruby;
