@@ -1,0 +1,12 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/c$ cat > antonio.c
+#include <stdio.h>
+
+int main()
+{
+    printf("Hola, soy Antonio Crespo");
+    return 0;
+}
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/c$ gcc -o antonio antonio.c
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/c$ ./antonio
+Hola, soy Antonio Crespoantonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/c$ 
+

@@ -1,0 +1,13 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/c++$ cat > antonio.cpp
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+	cout<<"Hola, soy Antonio Crespo \n";
+	return 0;
+}
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/c++$ g++ -o antonio antonio.cpp
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/c++$ ./antonio
+Hola, soy Antonio Crespo 
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/c++$ 
