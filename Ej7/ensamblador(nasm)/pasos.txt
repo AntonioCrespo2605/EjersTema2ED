@@ -1,0 +1,23 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ensamblador(nasm)$ cat > antonio.asm
+section .data
+msg	db "Hola, soy Antonio Crespo", 0Ah
+len     equ	$ - msg
+
+section .text
+
+global _start
+
+_start:
+	mov	eax, 04h
+	mov	ebx, 01h
+	mov	ecx, msg
+	mov	edx, len
+	int	80h
+	mov     eax, 01h
+	mov	ebx, 00h
+	int	80h
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ensamblador(nasm)$ nasm -f elf64 antonio.asm
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ensamblador(nasm)$ ld antonio.o -o antonio
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ensamblador(nasm)$ ./antonio
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ensamblador(nasm)$ 

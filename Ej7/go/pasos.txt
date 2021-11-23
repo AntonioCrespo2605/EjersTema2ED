@@ -1,0 +1,17 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/go$ rm antonio.go 
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/go$ cat > antonio.go
+package main
+
+import "fmt"
+
+func main(){
+	fmt.Printf("Hola, soy Antonio Crespo\n")
+}
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/go$ go build antonio.go
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/go$ ./antonio
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/go$ echo "Segunda forma:"
+Segunda forma:
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/go$ go run antonio.go
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/go$ 

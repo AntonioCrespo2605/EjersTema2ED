@@ -1,0 +1,7 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/lisp$ cat > antonio.lisp
+#!/bin/clisp
+(format t "Hola, soy Antonio Crespo")
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/lisp$ chmod +x antonio.lisp
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/lisp$ ./antonio.lisp
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/lisp$ 

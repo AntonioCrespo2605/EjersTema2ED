@@ -1,0 +1,8 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/rust$ cat > antonio.rs
+fn main(){
+	println!("Hola, soy Antonio Crespo");
+}
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/rust$ rustc antonio.rs
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/rust$ ./antonio
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/rust$ 

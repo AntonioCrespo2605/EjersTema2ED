@@ -1,0 +1,7 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ruby$ cat > antonio.rb
+#!/bin/ruby
+puts "Hola, soy Antonio Crespo"
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ruby$ chmod +x antonio.rb
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ruby$ ./antonio.rb
+Hola, soy Antonio Crespo
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej7/ruby$ 
