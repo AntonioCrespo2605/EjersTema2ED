@@ -1,0 +1,16 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej23$ ant
+Buildfile: /home/antonio/Escritorio/GitHub/EjersTema2ED/Ej23/build.xml
+
+init:
+    [mkdir] Created dir: /home/antonio/Escritorio/GitHub/EjersTema2ED/Ej23/build/classes
+    [mkdir] Created dir: /home/antonio/Escritorio/GitHub/EjersTema2ED/Ej23/build/jar
+
+compile:
+    [javac] Compiling 2 source files to /home/antonio/Escritorio/GitHub/EjersTema2ED/Ej23/build/classes
+
+jar:
+      [jar] Building jar: /home/antonio/Escritorio/GitHub/EjersTema2ED/Ej23/build/jar/programa.jar
+
+BUILD SUCCESSFUL
+Total time: 1 second
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej23$ 

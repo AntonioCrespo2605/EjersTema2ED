@@ -1,0 +1,5 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej22$ gcc -O -c main.c
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej22$ gcc -O -c -fPIC aritmetica.c
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej22$ gcc -O -shared -fPIC -o libaritmetica.so aritmetica.o
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej22$ gcc -O  -Wl,-rpath=/usr/local/lib  main.o  libaritmetica.so  -o  programa
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej22$ 
