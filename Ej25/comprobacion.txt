@@ -1,0 +1,7 @@
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej25/miapp$ cd build/classes/java/main && java Main cd ../../../
+Dados los números 5 y 2
+La suma es 7
+La resta es 3
+La multiplicación es 10
+La división es 2.5
+antonio@antonio-VirtualBox:~/Escritorio/GitHub/EjersTema2ED/Ej25/miapp/build/classes/java/main$ 
