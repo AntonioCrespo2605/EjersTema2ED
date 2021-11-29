@@ -1,6 +1,0 @@
-Lenguajes compilados:C, C++, Go, Rust
-
-Lenguajes interpretados:JavaScript, Python, Ruby, bash, php
-
-lisp
-casos especiales: java

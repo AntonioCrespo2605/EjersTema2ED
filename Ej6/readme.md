@@ -35,7 +35,7 @@ java antonio
 
 
 **go:**
-./ antonio
+./antonio
 
 
 **rust:**
